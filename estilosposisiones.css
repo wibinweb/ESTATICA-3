@@ -1,0 +1,518 @@
+body{
+	margin: 0;
+	padding:0 ;
+	width: 100%;	
+}
+.Mas{
+	font-size: 23px;
+}
+.THERUNT{
+	color: black;
+	font-size: 25px;
+	font-weight: 600;
+}
+.Organizar{
+	margin-left: 20px;
+	padding-right: 10px;
+	float: left;
+	color: black;
+	background-color: transparent;
+	font-size: 19px;
+	font-weight: 700;
+}
+.Organizar2{
+	float: left;
+	color: black;
+	background-color: transparent;
+	font-size: 19px;
+	font-weight: 600;
+}
+.Contact2{
+	text-align: center;
+	width: 100px;
+	margin-top: 5px;
+	border-radius: 15px;
+	color: white;
+	background-color: black;
+	font-size: 14px;
+	padding: 3px 8px;
+	cursor: pointer;
+}
+.Contact3{
+	font-size: 20px;
+	font-weight: 800;
+	text-align: center;
+	width: 130px;
+	margin-top: 10px;
+	border: 1px solid black;
+	border-radius: 15px;
+	color: black;
+	background-color: transparent;
+	padding: 3px 8px;
+	cursor: pointer;
+}
+.Topweek{
+	color: red;
+	font-size: 13px;
+}
+.TitulaHeader{
+	font-size: 26px;
+	margin: 5px 0px;
+	color: #000666;
+}
+.Azulito{
+	color: #000666;
+}
+.Grisesito{
+	color: #343434;
+}
+.TitulaHeader2{
+	text-align: center;
+	font-size: 25px;
+	margin: 5px 0px;
+	color: #000666;
+}
+.Contact{
+	border-radius: 15px;
+	color: white;
+	background-color: black;
+	font-size: 17px;
+	padding: 3px 8px;
+}
+.Container{
+	width: auto;
+	height: auto;
+	position: relative;
+	top: 0;
+	right: 0%;
+	padding: 15px 25px 0px 25px;
+	margin: 0px 0px -40px 20px;
+}
+.cero0{
+	margin-top: -5px;
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	background-color: transparent;
+}
+.uno1{
+	margin-top: 20px;
+	width: 680px;
+	height: auto;
+	position: absolute;
+	top: 3%;
+	left: 39%;
+}
+.Ajustar{
+	padding-left: 40px;
+	margin-right: -20px;
+}
+.dos2{
+	margin-top: 20px;
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 20%;
+	left: 80%;
+	background-color: black;
+}
+.imgusuario1{
+	width: 50px;
+	position: absolute;
+	top: 7%;
+	left: 15%;
+}
+.imgusuario2{
+	width: 60px;
+	position: absolute;
+	top: 7%;
+	left: 13%;
+}
+.imgusuario3{
+	width: 25px;
+	position: absolute;
+	top: 10%;
+	left: 19%;
+}
+.imgusuario4{
+	width: 50px;
+	position: absolute;
+	top: 7%;
+	left: 15%;
+}
+.Usuario1{
+	background-color: #E8E8E8;
+	border-radius: 15px;
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	top: -14%;
+	left: 41%;
+}
+.Usuario2{
+	background-color: #E8E8E8;
+	border-radius: 15px;
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	top: -23%;
+	left: -30%;
+}
+.Usuario3{
+	width: 40px;
+	height: 40px;
+	background-color: #E8E8E8;
+	border-radius: 15px;
+	position: absolute;
+	top: 2%;
+	left: -50%;
+}
+.Usuario4{
+	width: 70px;
+	height: 70px;
+	background-color: #E8E8E8;
+	border-radius: 15px;
+	position: absolute;
+	top: 59%;
+	left: -40%;
+}
+.ImgMinus{
+	margin: 5px;
+	width: 80px;
+	border-radius: 24px;
+}
+.ContenedorMid{
+	display: grid;
+	place-items: center;
+}
+.ContenedorInt1{
+	padding: 0;
+	margin: 0;
+	width: 900px;
+	height: 430px;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt2{
+	padding: 0px;
+	margin:-13px 0px 30px 0px;
+	width: 900px;
+	height: auto;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt3{
+	padding: 0px;
+	margin: 0px;
+	width: 900px;
+	height: 220px;
+	background-color: #F5F5F5;
+	border-radius: 13px;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt4{
+	margin-top: 40px;
+	width: 900px;
+	height: 310px;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt5{
+	margin: 85px 0px 0px 0px;
+	width: 900px;
+	height: 230px;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt6{
+	width: 900px;
+	height: 440px;
+	margin-top: 30px;
+	position: relative;
+	top: 20%;
+}
+.ContenedorInt7{
+	color: #585858;
+	margin-top: 100px;
+	width: 100%;
+	height: 400px;
+	background-color: #EFEFEF;
+	position: relative;
+	top: 20%;
+	text-decoration: none;
+}
+.ALLin{
+	padding-bottom: 10px;
+	font-size: 28px;
+	font-weight: 600;
+	text-align: center;
+	color: #000666;
+}
+.cuadrito{
+	margin-top: 40px;
+	text-align: center;
+	border: 1px solid #8E8E8E;
+	border-radius: 30px;
+	padding: 40px 0px 55px 0px;
+	width: 404px;
+	height: auto;
+	background-color: transparent;
+	position: absolute;
+	top: 36%;
+	left: 27.5%;
+}
+.TextPosi{
+	padding: 0px 40px 0px 40px;
+}
+.Estrella1{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 5%;
+	left: 34%;|
+}
+.Estrella2{
+	width: 20px;
+	height: 20px;	
+	position: absolute;
+	bottom: 5%;
+	left: 41%;
+}
+.Estrella3{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 5%;
+	left: 48%;
+}
+.Estrella4{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 5%;
+	left: 55%;
+}
+.Estrella5{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	bottom: 5%;
+	left: 62%;
+}
+.PosicionFooter1{
+	position: relative;
+	height: 359px;
+	width: 250px;
+	left: 5%;
+	top: 10%;
+}
+.AsideIMG{
+	display: inline;
+	position: absolute;
+	top: 14%;
+	right: 10%;
+}
+.Titulo{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 250px;
+	height: 100px;
+}
+.PosicionFooter2{
+	position: absolute;
+	height: 359px;
+	width: 250px;
+	left: 30%;
+	top: 10%;
+	
+}
+.PosicionFooter3{
+	position: absolute;
+	height: 359px;
+	width: 250px;
+	left: 55%;
+	top: 10%;
+	
+}
+.Contenido{
+	position: absolute;
+	top: 28%;
+	left: 0;
+	width: 250px;
+	height: 255px;
+}
+.getbig{
+	margin-top:33px ;
+	font-size: 19px;
+}
+.Notanto{
+	font-size: 19px;
+}
+.TitularFooter2{
+	margin: 35px 0px 60px 0px;
+}
+.InfoAt{
+	margin: 14px 0px;
+	text-decoration: none;
+}
+.InfoAt1{
+	margin: 115px 0px 0px 0px;
+	text-decoration: none;
+}
+.InfoAt3{
+	display: block;
+	margin: 22.5px 0px;
+	text-decoration: none;
+}
+.center{
+	text-align: center;
+	color: darkblue;
+}
+.center2{
+	position: absolute;
+	left: 30%;
+	padding: 2px 40px;
+}
+.WellPlacingCent{
+	text-align: center;
+	margin: 0px 230px;
+}
+.WellPlacing{
+	text-align: justify;
+	padding: 0px 190px;
+}
+.WellTitle{
+	text-align: justify;
+	padding: 0px 0px 0px 70px;
+}
+.WellPlacing1{
+	font-size: 17.5px;
+	text-align: justify;
+	padding: 0px 0px 0px 70px;
+}
+.reduceSvg{
+	margin: 1px 0px -15px 0px;
+	width: 35px;
+}
+.CellPhone{
+	position: absolute;
+	margin: 10px;
+	margin-left: 75px;
+	top: 2%;
+	left: 0;
+	width: 220px;
+	height: 180px;
+}
+.Man{
+	position: absolute;
+	margin: 10px;
+	top: 2%;
+	left: 38%;
+	width: 220px;
+	height: 180px;
+}
+.Sheet{
+	position: absolute;
+	margin: 10px;
+	margin-right: 55px;
+	top: 2%;
+	right: 0;
+	width: 220px;
+	height: 180px;
+}
+.Izquierda1{
+	text-align: justify;
+	width: 290px;
+	height: 430px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: transparent;
+	transition: 1s;
+}
+.Derecha1{
+	background-image: url("IMG/Casa-Jaboticabas-01-1536x1024.jpg");
+	background-repeat:no-repeat ;
+	background-size: cover;
+	width: 530px;
+	height: 300px;
+	position: absolute;
+	border-radius: 10px;
+	top: 0;
+	right: 5%;
+	background-color: transparent;
+}
+.Izquierda2{
+	background-image: url("IMG/295984696_4533590333066.jpg");
+	background-size: cover;
+	border-radius: 10px;
+	width: 505px;
+	height: 285.4px;
+	position: absolute;
+	top: 4%;
+	left: 3%;
+}
+.Derecha2{
+	text-align: justify;
+	width: 350px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	right: 6%;
+	transition: 1s;	
+}
+.Izquierda3{
+	text-align: justify;
+	width: 448px;
+	height: 200px;
+	position: absolute;
+	top: 0;
+	left: 2%;
+	background-color: transparent;
+	transition: 1s;
+}
+.Derecha3{
+	background-image: url("IMG/evo.jpg");
+	background-size: cover;
+	border-radius: 8px;
+	width: 370px;
+	height: 200px;
+	position: absolute;
+	top: 0;
+	right: 5%;
+	background-color: transparent;
+}
+.DisplaySM{
+	margin: 5px 5px;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+}
+.img1{
+	padding: 5px;
+	width: 31px;
+	height: 31px;
+	transition: 0.4s;
+}
+.img1:hover{
+	width: 35px;
+	height: 35px;
+	translate: -5px;
+	transition: 1.2s;
+}
+.img1:active{
+	width: 38px;
+	height: 38px;
+	translate: -10px;
+	transition: 1.2s;
+}
+
+
+
+
+
